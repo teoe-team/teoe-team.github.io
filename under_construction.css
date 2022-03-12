@@ -1,0 +1,11 @@
+@font-face { font-family: tele; src: url('font.otf'); } 
+
+body {
+	background-color: yellow;
+	font-family: tele;
+	text-align: center;
+}
+
+span {
+	color: red;
+}

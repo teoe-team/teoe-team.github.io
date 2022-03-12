@@ -1,0 +1,19 @@
+@font-face { font-family: tele; src: url('font.otf'); } 
+
+body {
+	font-family: tele;
+	color: red;
+	background-color: black;
+}
+
+a {
+	color:red;
+}
+
+.fire {
+	color: orange;
+}
+
+.magic {
+	color: #bb00ff;
+}

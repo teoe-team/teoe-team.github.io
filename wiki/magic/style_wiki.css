@@ -1,0 +1,45 @@
+@font-face { font-family: tele; src: url('../font.otf'); } 
+
+body {
+	font-family: tele;
+	color: red;
+	background-color: black;
+}
+
+a {
+	color: red;
+}
+
+.grid-container-wands {
+	display: grid;
+	background-color: #222222;
+	grid-template-columns: 1000px 150px 165px;
+	grid-template-rows: 30px 30px 30px 30px 30px 30px 30px 30px 30px 30px 30px 30px;
+}
+
+.grid-item {
+	background-color: red;
+	color: white;
+	margin: 3px;
+	padding: 3px;
+}
+
+.fire {
+	color: orange;
+}
+
+.earth {
+	color: #00ff00;
+}
+
+.water {
+	color: blue;
+}
+
+.wind {
+	color: #9effe7;
+}
+
+.magic {
+	color: #bb00ff;
+}

@@ -1,0 +1,126 @@
+@font-face { font-family: tele; src: url('font.otf'); } 
+
+p {
+	font-family: tele;
+	color:red
+}
+
+h1 {
+	font-family: tele;
+	color:red
+}
+
+h2 {
+	font-family: tele;
+	color:red
+}
+
+h3 {
+	font-family: tele;
+    color:red
+}
+
+h4 {
+	font-family: tele;
+	color:red
+}
+
+h5 {
+	font-family: tele;
+	color:red
+}
+
+h6 {
+	font-family: tele;
+	color:red
+}
+
+a {
+	font-family: tele;
+	color:red
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	border: 3px solid #333333;
+	background-color: #333333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: #999999;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	margin-top: 3px;
+}
+
+li a:hover:not(.active) {
+	background-color: #555555;
+}
+
+li a.active {
+	color: white;
+	background-color: #FF0000;
+}
+
+li img {
+	margin-left: 3px;
+	margin-top: 3px;
+	margin-right: 3px;
+}
+
+body {
+	background-color: black;
+	text-align: center;
+}
+
+.fire {
+	color: orange;
+}
+
+.earth {
+	color: #00ff00;
+}
+
+.water {
+	color: blue;
+}
+
+.wind {
+	color: #9effe7;
+}
+
+.magic {
+	color: #bb00ff;
+}
+
+input {
+	font-family: tele;
+	color: red;
+	background-color: #222222;
+}
+
+button {
+	background-color: red;
+	color: white;
+	font-family: tele;
+	padding: 5px;
+}
+
+.footer  {
+	background-color: red;
+	font-family: tele;
+	padding: 5px;
+}
+
+div p {
+	color: white;
+}
